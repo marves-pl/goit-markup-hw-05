@@ -585,7 +585,7 @@ margin-bottom: 8px;
 
 }
 
-.backdrop: not (.is-open) .modal {
+.backdrop:not(.is-open) .modal {
     transform: translate(-50%, -100%);
 
 }
