@@ -750,6 +750,11 @@ margin-bottom: 8px;
 
 }
 
+.label-wrap {
+    display: block;
+    margin-bottom: 4px;
+}
+
 .input-wrap {
     position: relative;
     margin-bottom: 8px;
