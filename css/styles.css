@@ -730,7 +730,7 @@ margin-bottom: 8px;
 
 }
 
-.modal-input:hover {
+.modal-input:focus {
     border-color: #4D5AE5;
 }
 
@@ -814,7 +814,7 @@ margin-bottom: 8px;
     ;
 }
 
-.input-checkbox {
+.input-checkbox:checked +label>span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
